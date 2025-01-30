@@ -1,6 +1,6 @@
 # Dice app in flutter 
 
-<img src="https://github.com/pulemojatau/dice_app/blob/main/dice_app" alt="My Image" width="300" height="450"/>
+<img src="https://github.com/pulemojatau/dice_app/blob/main/dice_app.png" alt="My Image" width="300" height="450"/>
 
 
 🎲 Dice App
