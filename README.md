@@ -14,8 +14,6 @@ A simple and interactive Flutter app that renders a picture of a dice and change
 - [Getting Started](#getting-started)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Screenshot](#screenshot)
 - [License](#license)
 - [Course](#**Course)
 
@@ -53,6 +51,6 @@ This project is built using Flutter, a UI toolkit for crafting natively compiled
 ## Usage
 - You press the button to change the number of a dice 
 
-## **Course**
+5. **Course**
 This app was built following the [Udemy - Flutter & Dart - The Complete Guide 2025 Edition](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) to practice and enhance Flutter development skills.
 
