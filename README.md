@@ -14,8 +14,7 @@ A simple and interactive Flutter app that renders a picture of a dice and change
 - [Getting Started](#getting-started)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
-- [Course](#**Course)
+- [Course](#course)
 
 ## Features
 - 🌈 **Gradient Background**: Beautiful gradient background for enhancing app UI.
