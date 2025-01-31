@@ -1,6 +1,7 @@
 # Dice app in flutter 
 
 <img src="https://github.com/pulemojatau/dice_app/blob/main/dice_app.png" alt="My Image" width="300" height="450"/>
+[Here is a short video demonstration]([https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/](https://youtube.com/shorts/jgfgTM2jry8?feature=share))
 
 
 🎲 Dice App
