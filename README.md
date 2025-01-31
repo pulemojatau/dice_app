@@ -6,8 +6,7 @@
 🎲 Dice App
 A simple and interactive Flutter app that renders a picture of a dice and changes it at random when the "Roll" button is pressed. This project is a fun and engaging way to explore Flutter development while focusing on clean code and reusable components. 
 
-[Here is a short video demonstration]([https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/](https://youtube.com/shorts/jgfgTM2jry8?feature=share))
-
+[Here is a short video demonstration]([https://youtube.com/shorts/jgfgTM2jry8?feature=share])
 
 
 ## Table of Contents
